@@ -1,0 +1,12 @@
+E:\Programming\VS_Studio_2019\TestWorkAutoText\Managers\bin\Debug\Managers.dll
+E:\Programming\VS_Studio_2019\TestWorkAutoText\Managers\bin\Debug\Managers.pdb
+E:\Programming\VS_Studio_2019\TestWorkAutoText\Managers\obj\Debug\Managers.csproj.CoreCompileInputs.cache
+E:\Programming\VS_Studio_2019\TestWorkAutoText\Managers\obj\Debug\Managers.dll
+E:\Programming\VS_Studio_2019\TestWorkAutoText\Managers\obj\Debug\Managers.pdb
+D:\Programming\Projects\VS_2019\TestWorkAutoText\Managers\bin\Debug\Managers.dll
+D:\Programming\Projects\VS_2019\TestWorkAutoText\Managers\bin\Debug\Managers.pdb
+D:\Programming\Projects\VS_2019\TestWorkAutoText\Managers\obj\Debug\Managers.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\VS_2019\TestWorkAutoText\Managers\obj\Debug\Managers.dll
+D:\Programming\Projects\VS_2019\TestWorkAutoText\Managers\obj\Debug\Managers.pdb
+E:\Programming\VS_Studio_2019\TestWorkAutoText\Managers\obj\Debug\Managers.csprojAssemblyReference.cache
+D:\Programming\Projects\VS_2019\TestWorkAutoText\Managers\obj\Debug\Managers.csproj.AssemblyReference.cache
